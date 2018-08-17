@@ -4,6 +4,8 @@ namespace app\models;
 
 use Yii;
 
+// a simple comment
+
 /**
  * This is the model class for table "barcodes".
  *
